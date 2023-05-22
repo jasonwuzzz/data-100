@@ -2,3 +2,5 @@
 **/*.ipynb_checkpoints/
 _site/*
 .OTTER_LOG
+data/
+__pycache__/
