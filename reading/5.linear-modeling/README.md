@@ -1,0 +1,2 @@
+# Linear Modeling
+Linear Modeling focuses on understanding the world using data. It covers inferential topics like confidence intervals and hypothesis testing in addition to model fitting, feature engineering, and model selection. This part ends with a case study about predicting donkey weights for veterinarians in Kenya.

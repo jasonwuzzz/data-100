@@ -1,0 +1,2 @@
+# Classification
+Classification completes our study of supervised learning with logistic regression and optimization. It ends with a case study on predicting whether news articles make real or fake statements.

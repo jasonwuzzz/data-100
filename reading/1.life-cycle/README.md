@@ -1,0 +1,2 @@
+## Data Science LifeCycle
+The Data Science Lifecycle describes what the lifecycle is, makes one full pass through the lifecycle at a basic level, and introduces terminology that we use throughout the book. The part concludes with a short case study about bus arrival times.
