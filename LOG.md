@@ -16,9 +16,10 @@ In each week, my study logs should consist of the completion status of the follo
 
 ### Week 5
 - [x] Reading 
-    [23-Sep-2023] Week5: Read Chapter 15-Linear Models
+    [Sat 23 Sep 2023] Week5: Read Chapter 15-Linear Models
 ### Week 6
 - [x] Lecture
-    [19-Sep-2023] Week 6: Lecture 11-Ordinary Least Estimation
+    [Tue 19 Sep 2023] Week 6: Lecture 11-Ordinary Least Estimation
 - [ ] Week6: Discussion 6
-- [ ] Week6: Lab 6
+- [x] Week6: Lab 6
+    [Tue 26 Sep 2023] Week 6: Lab 06
